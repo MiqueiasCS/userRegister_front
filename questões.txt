@@ -4,10 +4,17 @@ Responda sucintamente os itens a seguir em um .txt levando as perguntas e as res
 
 1. A solução deve ser disponibilizada em Cloud ou On-premise?
 
+Em Cloud. Embora existam preocupações com a segurança neste modelo, não existem dados considerados "sensíveis" nesta aplicação. Então, para evitar custos de manutenção, energia e espaço a solução em Cloud seria a melhor opção pois só precisaria pagar pelos recursos usados de acordo com o quanto foi consumido.
+
 2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
 
+Uma boa ferramenta seria o Trello, pois permite o uso da metodologia Kanban para separar as tarefas. As equipes poderiam se reunir, fazer o planejamento do projeto, separar as atividades em cartões e enfim atribuir as tarefas. É possível mover os cartões pelos campos na plataforma (a fazer, em andamento, concluído,...) a medida que as atividades são concluídas, facilitando a vizualização do andamento do projeto. Poderia haver também reuniões diárias (SCRUM) para verificar o andamento da equipe e manter todos atualizados. Assim, se uma pessoa da equipe estiver com dificuldade, por exemplo, seria possível verificar rapidamente uma forma de auxiliá-la.
+
 3. Você se sente capaz de liderar esta equipe? Por quê?
+Sim. Embora me falte experiência, tenho conhecimentos no front-end e back-end e caso tivesse dificuldade não teria problemas em consultar os membros da equipe para  juntos encontrarmos uma solução. 
 
 4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+Existem melhorias a serem feitas no front end da aplicação que não consegui resolver a tempo. Acredito que com mais tempo conseguiria deixar o design 'mais agradável'.
 
-5. Acha válido esse desafio para o processo que está participando? 
+5. Acha válido esse desafio para o processo que está participando?
+Sim. Embora tenha tido algumas dificuldades, fazendo algumas pesquisas eu consegui terminar o desafio.
