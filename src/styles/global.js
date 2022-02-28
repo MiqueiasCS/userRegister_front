@@ -20,4 +20,9 @@ button{
 ul,li{
     list-style:none;
 }
+
+.App{
+    background-color:#cdf6a554;
+    min-height:100vh;
+}
 `;

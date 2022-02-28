@@ -5,3 +5,7 @@ const userResgistrationApi = axios.create({
 });
 
 export default userResgistrationApi;
+
+export const ViaCep = axios.create({
+  baseURL: "http://viacep.com.br/ws",
+});
