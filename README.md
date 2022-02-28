@@ -3,13 +3,15 @@
 Esse projeto usa o seguinte repositório para o back:
 [https://github.com/MiqueiasCS/userRegister_back](https://github.com/MiqueiasCS/userRegister_back)
 
+
+## Diagrama
+[Link](https://drive.google.com/file/d/1kwkrqFxAZh8956ej8X1Nq_1cvp5nTYbT/view?usp=sharing)
+
 ## Tecnologias Front End
 
 - [x] Linguagem de programação: JavaScript
 - [x] ReactJs
 
-## Diagrama
-[Link](https://drive.google.com/file/d/1kwkrqFxAZh8956ej8X1Nq_1cvp5nTYbT/view?usp=sharing)
 
 ### 🎲 Rodando o Front End
 
